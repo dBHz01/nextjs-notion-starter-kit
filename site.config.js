@@ -1,6 +1,6 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '644929cea0fe4641adf52c55a554667e',
+  rootNotionPageId: 'ce53720eb0a448109407ec7f25f2f3b3',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'dBHz',
-  domain: 'https://www.notion.so/dbhz/644929cea0fe4641adf52c55a554667e?v=bfbbec74ceb94c3e9fc2a0a9a75fe0b2',
+  domain: 'https://www.notion.so/dbhz/dBHz-s-Blog-ce53720eb0a448109407ec7f25f2f3b3',
   author: 'dBHz',
 
   // open graph metadata (optional)
