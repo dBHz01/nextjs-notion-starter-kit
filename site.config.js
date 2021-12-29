@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'dBHz',
-  domain: 'https://www.notion.so/dbhz/dBHz-s-Blog-ce53720eb0a448109407ec7f25f2f3b3',
+  domain: 'dbhz.tech',
   author: 'dBHz',
 
   // open graph metadata (optional)
